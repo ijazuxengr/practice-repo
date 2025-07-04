@@ -1,2 +1,2 @@
 # practice-repo
-Practice account for learning Git
+English Treanlator App
